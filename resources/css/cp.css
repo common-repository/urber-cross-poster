@@ -1,0 +1,29 @@
+div.wrap{width: 100%}
+
+table.settings {width: 95%}
+
+table.settings td {padding: 10px; margin-bottom: 30px;}
+table.settings td:first-child {width: 40%}
+table.settings th {text-align: left}
+table.settings td:nth-child(even) img {width: 20%}
+
+
+.cp_floating {position: fixed; z-index: 999999}
+
+.cp_topleft {top: 34px; left: 0;}
+.cp_bottomleft {bottom: 0; left: 0;}
+.cp_topright {top: 34px; right: 0;}
+.cp_bottomright {bottom: 0; right: 0;}
+
+#adminmenu .toplevel_page___crossposter_ div.wp-menu-name {
+	padding: 18px 0;
+}
+
+#adminmenu .wp-menu-image img {
+	padding-left: 10px;
+}
+
+#cp_settings .panel-icons {
+    display: inline;
+    margin: 0 20px 20px 0;    
+}
